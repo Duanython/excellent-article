@@ -1,2 +1,5 @@
-# excellent-article
-一些不错的文章
+[`MIT 18.06 公开课笔记`](https://linalg.apachecn.org/#/)   
+[`字符编码导论`](https://medium.com/jspoint/introduction-to-character-encoding-3b9735f265a6)   
+[`Intel 80386 参考手册`](https://pdos.csail.mit.edu/6.828/2017/readings/i386/toc.htm)   
+[`console,terminal,shell概念区分`](https://www.hanselman.com/blog/whats-the-difference-between-a-console-a-terminal-and-a-shell)   
+[`Runtime Environment`](https://davidxiang.com/2021/02/26/what-is-a-runtime-environment/)   
