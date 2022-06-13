@@ -4,4 +4,4 @@
 [`MIT 18.06 公开课笔记`](https://linalg.apachecn.org/#/)  
 [`Intel 80386 参考手册`](https://pdos.csail.mit.edu/6.828/2017/readings/i386/toc.htm)  
 [`The Antecedent in English Grammar`](https://www.chompchomp.com/terms/antecedent.htm)  
-
+[`proper noun with "the"`](https://www.englishclub.com/grammar/nouns-proper.htm)  
